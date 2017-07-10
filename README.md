@@ -38,9 +38,7 @@ A healthy Wamp or Xampp server running, with services like - Apache, MySQL and P
 
 ## Authors
 
-* **Karan Uppal** - *Initial work* - [freezethinker](https://github.com/freezethinker)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Karan Uppal** - [freezethinker](https://github.com/freezethinker)
 
 ## License
 
@@ -48,5 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Srinivas, CFG Team Mentor
-* Ramesh, CFG Team Mentor
+* Mr. Srinivas, CFG Team Mentor
+* Mr. Ramesh, CFG Team Mentor
